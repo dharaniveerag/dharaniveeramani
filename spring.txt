@@ -1,0 +1,2 @@
+Spring Framework
+Spring is a lightweight framework. It can be thought of as a framework of frameworks because it provides support to various frameworks such as Struts, Hibernate.
